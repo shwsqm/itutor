@@ -1,0 +1,8 @@
+{
+  "name": "iTutor",
+  "description": "A high-end tutoring platform featuring a search engine for experts and a custom-built AI-powered virtual classroom with real-time audio/video capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
